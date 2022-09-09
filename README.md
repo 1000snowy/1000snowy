@@ -3,7 +3,8 @@ Hi 👋 My name is Kaan
 Backend developer & student
 ---------------------------
 I’m coding for 4 years and I’m still learning new things 💫  
-* 🌍  I'm based in Turkey * 🖥️  See my portfolio at [my personal website](http://kaans.land) 
+* 🌍  I'm based in Turkey 
+* 🖥️  See my portfolio at [my personal website](http://kaans.land) 
 * ✉️  You can contact me at [root@kaans.land](mailto:root@kaans.land) 
 * 🚀  I'm currently working on [Tweetcord Bot](http://tweetcord.xyz) 
 * 🧠  I'm learning Rust, to extend my backend capabilities
