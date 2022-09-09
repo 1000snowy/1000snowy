@@ -1,4 +1,8 @@
-Hi 👋 My name is Kaan =====================  Backend developer & student ---------------------------  I’m coding for 4 years and I’m still learning new things 💫  * 🌍  I'm based in Turkey * 🖥️  See my portfolio at [my personal website](http://kaans.land) * ✉️  You can contact me at [root@kaans.land](mailto:root@kaans.land) * 🚀  I'm currently working on [Tweetcord Bot](http://tweetcord.xyz) * 🧠  I'm learning Rust, to extend my backend capabilities
+Hi 👋 My name is Kaan
+===================== 
+Backend developer & student
+---------------------------
+I’m coding for 4 years and I’m still learning new things 💫  * 🌍  I'm based in Turkey * 🖥️  See my portfolio at [my personal website](http://kaans.land) * ✉️  You can contact me at [root@kaans.land](mailto:root@kaans.land) * 🚀  I'm currently working on [Tweetcord Bot](http://tweetcord.xyz) * 🧠  I'm learning Rust, to extend my backend capabilities
 
 <a href="https://www.github.com/1000snowy" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/1000snowy?logo=github&style=for-the-badge&color=14b8a6&labelColor=1c1917" /></a>
 ### Skills
